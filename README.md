@@ -2,9 +2,9 @@
 {
   "0":{
   "id":"1",
-  "name":"MUZANGALA TV",
+  "name":"LNTV",
   "description":"1501",
-  "live_url":"https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8",
+  "live_url":"https://od.lk/s/NDZfODA2NzI5MDdf/LNTVLiberia.png",
   "thumbnail":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg",
   "categorie":"SPORTS"
   }
